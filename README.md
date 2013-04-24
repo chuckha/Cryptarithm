@@ -22,3 +22,8 @@ Answer: With this python library
 Because every good project needs tests:
 
     $ python test_equation.py
+
+
+## Todo
+
+* Implement an algorithm that does not take 10000000000 (10^10) comparisons
