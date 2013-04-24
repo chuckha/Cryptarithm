@@ -1,6 +1,6 @@
 #Cryptarithm Solver
 
-Question: Given the word addition problem with no access to wikipedia:
+Question: Given the word addition problem with no access to the internet:
 
       SEND
     + MORE
