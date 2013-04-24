@@ -1,6 +1,14 @@
 #Cryptarithm Solver
 
-Because why not?
+Question: Given the word addition problem with no access to wikipedia:
+
+      SEND
+    + MORE
+    ------
+     MONEY
+
+How do you solve it?
+Answer: With this python library
 
 ##Examples
 
