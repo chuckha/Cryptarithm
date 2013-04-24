@@ -25,7 +25,7 @@ def solve(*words):
         numbers = Numbers(*ns)
         if numbers.patterns == words.patterns:
             return numbers.numbers
-    return ()
+    return () #an empty tuple
      
 if __name__ == '__main__':
     print solve("broo", "klyn", "folk")
